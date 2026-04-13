@@ -21,3 +21,4 @@ A simple AI-powered text summarizer built with Python and Streamlit.
 ## Commands
 pip install -r requirements.txt
 streamlit run app.py
+
