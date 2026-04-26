@@ -33,16 +33,14 @@ This project is intentionally kept simple so it can serve as a strong foundation
 - Suitable for GitHub portfolio projects
 
 ---
-
 ## Screenshots
 
-> Add your screenshots inside `assets/screenshots/` and update the file names below if needed.
-
 ### Main Interface
-![Main Interface](assets/screenshots/main-interface.png)
+![Main Interface](assets/screenshots/home-page.png.png)
 
 ### Summary Result
-![Summary Result](assets/screenshots/generated-summary.png)
+![Summary Result](assets/screenshots/summary-result.png)
+
 
 ---
 
